@@ -1,0 +1,20 @@
+{
+  "name": "gazdag-utils",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "type": "module",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GazdagB/gazdag-utils.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GazdagB/gazdag-utils/issues"
+  },
+  "homepage": "https://github.com/GazdagB/gazdag-utils#readme"
+}
